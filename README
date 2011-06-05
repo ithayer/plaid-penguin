@@ -1,13 +1,1 @@
-# plaid-penguin
-
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Self-documenting wrappers around thrift interface functions, since the thrift docs, are, well, in progress. See https://github.com/ithayer/plaid-penguin-example for an example of use.
