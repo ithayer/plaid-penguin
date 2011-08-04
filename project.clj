@@ -1,4 +1,4 @@
-(defproject plaid-penguin "1.0.0"
+(defproject plaid-penguin "1.1.0"
   :description "Library that makes it simple to define a thrift RPC interface in clojure."
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [org.clojure/clojure-contrib "1.2.0"]
